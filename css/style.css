@@ -1,0 +1,16 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-image: url("../img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-text {
+  text-align: center;
+  font-size: 300px;
+}
+/*# sourceMappingURL=style.css.map */
